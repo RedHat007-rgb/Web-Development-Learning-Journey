@@ -1,0 +1,13 @@
+## Node modules
+node_modules/
+## Logs
+npm-debug.log*
+yarn-error.log*
+## Lockfiles
+package-lock.json
+## macOS files
+.DS_Store
+## Environment files
+.env
+## Optional coverage directory from tests
+coverage/
